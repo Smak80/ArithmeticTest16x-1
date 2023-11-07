@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ArithmeticTest16x-1</string>
+    <string name="result_text">Верных ответов %d из %d</string>
 </resources>
